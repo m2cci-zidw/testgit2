@@ -1,10 +1,14 @@
 import React from 'react'
+import sarra from './sarra'
+
 
 const amir = () => {
     return (
         <div>
             <h1> Hello</h1>
-        </div>
+            <sarra/>
+            </div>
+            
     )
 }
 
